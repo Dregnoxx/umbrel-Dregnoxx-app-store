@@ -3,7 +3,7 @@ id: Dregnoxx
 name: Nginx-Proxy-Manager
 tagline: Nginx-Proxy-Manager
 icon: https://nginxproxymanager.com/logo.svg
-category: Networking
+category: Development
 version: "1.0.0"
 port: 81
 description: >-
